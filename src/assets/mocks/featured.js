@@ -16,7 +16,7 @@ export default [
         image: 'cloud_storage.jpeg',
     },
     {
-        title: 'Popular Programming Languages in 2020',
+        title: 'Popular Programming Languages in 2024',
         date: moment().format('MMMM DD, YYYY'),
         categories: ['Tech News', 'Tech Culture'],
         link: '#',
