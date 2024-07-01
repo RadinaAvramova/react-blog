@@ -2,7 +2,7 @@ import moment from 'moment'
 
 export default [
     {
-        title: 'Software Engineer Salary in 2020',
+        title: 'Software Engineer Salary in 2024',
         date: moment().format('MMMM DD, YYYY'),
         categories: ['Tech Culture'],
         link: '#',
