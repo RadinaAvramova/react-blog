@@ -8,8 +8,8 @@
     "create-migration": "node ./database/actions/create-migration.js",
     "run-migration": "node ./database/actions/run-migration.js"
   },
-  "author": "Miguel Coder",
-  "license": "ISC",
+  "author": "",
+  "license": "",
   "dependencies": {
     "apollo-server-koa": "^2.13.0",
     "bluebird": "^3.7.2",
